@@ -155,7 +155,7 @@ recordsloop:
 			}
 			i++
 		}
-		fmt.Println() // Nueva línea entre filas
+
 		if found {
 			break recordsloop
 		}
